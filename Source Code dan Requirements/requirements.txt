@@ -1,0 +1,9 @@
+# Dependencies untuk AIROBOT (Jetson Nano, JetPack 4.6 / Python 3.6.9)
+# Pasang dengan:  pip3 install --user -r requirements.txt
+#
+# Catatan: TensorRT TIDAK dipasang lewat pip di sini. Modul `tensorrt`
+# disediakan dari rootfs SD card melalui `setenv.sh` (PYTHONPATH=pylib).
+
+numpy==1.19.5
+opencv-python==4.5.5.64
+Jetson.GPIO==2.0.17
