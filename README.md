@@ -1,9 +1,13 @@
 # AIROBOT — Sistem Pengenalan Rambu + Kendali LED (Jetson Nano) Kelompok 3
 
 Rendi Yulio Pramudita - 2023071047
+
 Rizky Kamil Ajie - 2023071051
+
 Ferdinan Indra Fata - 2023071059
+
 Fadil Muhamad Prasetya - 2023071068
+
 Raihan Ilham Ramadhan - 2023071075
 
 Sistem yang membaca gambar rambu dari kamera, mengenali jenis rambu
